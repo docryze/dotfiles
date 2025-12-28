@@ -1,0 +1,39 @@
+pacman:
+	git, vim, chezmoi
+	hyprland
+	swaync
+	xdg-desktop-portal-hyprland
+	hyprpolkitagent
+	ly
+	waybar
+	hyprlauncher
+	hypridle
+	hyprlock
+	hyprpaper
+
+	alacritty
+	zsh
+	
+	fcitx5-im
+	fcitx5-chinese-addons
+
+	bluetui
+
+	uv, fnm, pnpm, nrm (curl install)
+	
+	yazi, fzf, jq, btop, bat
+
+	todo:
+		podman podman-tui, podman-compose
+		buildad
+		skopeo
+		[ crun, ramalamaai container ]
+
+yay:	
+	google-chrome
+	clash-verge-recv-bin
+
+font:
+	otf-font-awesome
+	ttf-jetbrains-mono-nerd
+	adobe-source-han-sans-cn-fonts
