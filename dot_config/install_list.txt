@@ -32,6 +32,7 @@ pacman:
 yay:	
 	google-chrome
 	clash-verge-recv-bin
+    netease-cloud-music-gtk4
 
 font:
 	otf-font-awesome
