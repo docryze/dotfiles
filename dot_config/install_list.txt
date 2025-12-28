@@ -29,7 +29,7 @@ pacman:
 		skopeo
 		[ crun, ramalamaai container ]
 
-yay:	
+yay(paru):	
 	google-chrome
 	clash-verge-recv-bin
     netease-cloud-music-gtk4
